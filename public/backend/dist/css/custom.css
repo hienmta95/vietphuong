@@ -1,0 +1,29 @@
+.required {
+    color: red;
+    margin-left: 10px;
+}
+
+#datatables form button {
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+#datatables form .glyphicon {
+    padding: 0 3px;
+    font-size: 15px;
+    color: #0a95da;
+}
+
+#datatables img {
+    max-width: 120px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+.show-images {
+    max-width: 500px;
+}
